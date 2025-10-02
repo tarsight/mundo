@@ -1,7 +1,0 @@
-* [[brainstorm]]
-* [[cronologia]]
-- [[episódios]]
-- [[geografia]]
-- [[narrativa]]
-- [[personagens]]
-- [[sociedade]]
