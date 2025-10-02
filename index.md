@@ -1,5 +1,6 @@
-- [[cronologia]]
-- [[episodios]]
+* [[brainstorm]]
+* [[cronologia]]
+- [[episódios]]
 - [[geografia]]
 - [[narrativa]]
 - [[personagens]]
