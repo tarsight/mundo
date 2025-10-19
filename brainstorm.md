@@ -6,6 +6,35 @@ Baseado nesse mundo irei desenvolver outras coisas, como jogos de terror indie, 
 
 # 1. Visão geral do mundo
 
+OBS: MAIS IDEIAS
+	- o tempo congela as 17:00 (ao acordar), só volta a correr o tempo quando sai do refúgio (avisa que o tempo vai começar a correr nesse momento e pergunta se o jogador tem certeza sobre sair do refúgio). Antes de sair de casa é recomendado conversar com os companheiros e gerir inventários da casa
+	- antes das 21h (21h é a hora de toque de  recolher da FEMA) voltar pra casa congela o tempo, depois o tempo passa/corre normalmente.
+	- Atividades diárias: 
+		- caçar animais com machado, lança, pistola, rifle. Para coletar alimento, guardar em freezer ou em depósito com sal, assar em fogão a lenha.
+		- coletar lenha/madeira derrubando árvores, guardar no depósito, usar para fogão, usar em lareira, fazer tocha (pode colocar em paredes e colocar a essência da fumaça protetiva para proteger em ambientes inóspitos fora de casa), fazer tabua ou arma de madeira e reforçar janelas e portas
+		- Coletar água de poças, rios e de poços, beber água. Ferver água para diminuir toxicidade e guardar em caixa dágua.
+	- Em um momento inicial, o jogador acorda com um parasita dentro de si que deve controlá-lo de alguma forma para não matá-lo.
+	- O relógio (analógico - não digital) pode ser visto no topo direito, quando no escuro fica escuro também, com luz pode ver normalmente - em alguns momentos e locais o tempo para, ou salta ou passa mais rápido ou mais lento.
+	- Dorme das 06:00 até as 17:00; A partir das 17:00 pode gerir os recursos dos inventários para mantenimento das pessoas na casa, preparar e escolher dispatches pela cidade (normalmente os companheiros da casa chegam as 21:00 ou podem se atrasar chegando depois das 00:00 criando dúvidas e possíveis conflitos - podem ser doppelgangers, ou voltar infectados), ficar sem nenhum companheiro será fatal as 00:00 devido ao super ser da noite, pode sair sem danos do sol a partir das 17:00; das 17:00 até as 21:00 praticamente não tem combate em locais abertos e não recebe nenhum visitante e ainda tem pessoas na rua e FEMA sem violencia; das 21:00 as 00:00 os visitantes começam a aparecer em casa, as pessoas vão para suas casas, alguns inimigos começam a atacar fora de casa, FEMA já começa com o toque de recolher exigindo que volte pra casa, senão é bala, deve reforçar entradas e preparar-se para a noite, até 00:00; A partir de 00:00 a lua está no ponto máximo, visitantes extremamente suspeitos podem aparecer, inimigos muito fortes fora de casa, FEMA mete bala sem questionar, melhor opção é ficar em casa ou é game over, antes o jogador deve ter achado a gasolina para os geradores e se proteger com luzes fortes e a fumaça protetiva (referencia a darkwood) até as 06:00 quando o sol nasce e elimina os Seres da noite.
+	- "I would love a full survival horror game about trying to stop a parasite from getting to your brain. I genuinely love this idea" - comentários em devlog de endoparasyte
+	- As raízes entram em espelhos (devido a semelhança com água e telas), e em televisores (como os fios de televisao do filme await further instructions). Se conectam a meios de comunicação.
+	- Essas raízes também sugam os corpos de seus alvos, formando clones malformados (não conseguiu matar o alvo) ou praticamente perfeitos (como os replicados de the invasion of the body snatchers).
+	- Precisam se alimentar de água e sol, mantém máquinas ligadas mesmo sem energia conectada.
+	- TÍTULO: SHADOW VEINS
+	- Qual relação entre as raízes e as sombras?
+	- Em no im not human
+		- as pessoas são infectadas por um parasita
+		- o sol é escaldante a ponto de matar pessoas (plantas continuam numa boa)
+	- Em invasores de corpos as pessoas são sugadas e replicadas quando dormem por raízes de plantas alienígenas próximas de onde elas estão
+		- Quando morrem muxam como uma abobora queimando
+		- pegam as memorias da vítima (mas não sentem emoções)
+		- Se não conseguirem matar a vítima, a vítima sobrevive, e o monstro nasce deformado (com tempo limitado de vida) ou morre imediatamente - é como um transporte da vida para outro canto.
+		- Primeiros a serem dominados são cidadãos do interior, depois os militares (invasores pegam as memórias dos cidadãos e vêem que quem seria uma ameaça seria esse setor), depois políticos, e o restante da população
+	- Aqui não são raízes de "plantas", é uma lama negra com fios como raízes de sombra (como cabelos, mas são visivelmente sombras)
+	- Seres humanos poderiam se confinar no fundo do fundo da terra, para não ser achada pelos polens, ou contaminados por esporos emitidos pelos invasores, e esses precisam durante as manhãs se manter durante toda a duração do dia de sol
+	- Aqui esses monstros invasores não tem pensamento de colmeia, nem são indivíduos, são o mesmo ser, só morrem e perdem informações quando todos são destruídos.
+	- Foco de inspiração: Nightmare parasites (Nilismo animalesco/naturalista)
+
 Um universo de horror analógico/eldritch em declínio: verdades científicas e religiosas foram corrompidas ou inventadas; a população sofre desinformação, isolamento e pânico. O mundo atual está em estado apocalíptico: clima extremo e imprevisível, eventos bizarros, surtos de loucura coletiva, mortes em massa, contágios, canibalismo e mortos-vivos. Tudo isso cria um cenário perfeito para jogos curtos e webséries com narrativa em gotas (lore gotejada), enigmas e plot twists fragmentáveis entre mídia.
 
 ---
